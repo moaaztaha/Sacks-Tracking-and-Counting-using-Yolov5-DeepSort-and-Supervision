@@ -1,4 +1,6 @@
 # Sacks Tracking and Counting using Yolov5, DeepSort and Supervision
+Using Yolov5, DeepSort and Supervision to track the number of sacks loaded onto and off of a truck.
+
 <img src="demo.gif" alt="video demo" width="800"/>
 
 ## How to run
